@@ -14,3 +14,6 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+## Frame Details
+- Lightweight TR90 frame, flexible & shatter-resistant
+- Suitable for cycling, running and golf tennis
