@@ -17,3 +17,6 @@ Remember, it's self-paced so feel free to take a break! ☕️
 ## Frame Details
 - Lightweight TR90 frame, flexible & shatter-resistant
 - Suitable for cycling, running and golf tennis
+## Lens Details
+- TAC polarized lens, UV 500 protection
+- Anti scratch coating
